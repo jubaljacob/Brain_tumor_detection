@@ -1,5 +1,5 @@
 # Brain_tumour_detection
-A project to identify if an MRI scan of the brain contains presences of brain tumor using Keras and OpenCV
+A project to identify if an MRI scan of the brain contains presences of brain tumor using Tensorflow sequential model and OpenCV
 
 Dataset Br35H 👉🏻 https://www.kaggle.com/ahmedhamada0/brain-tumor-detection
 
